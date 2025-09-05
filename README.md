@@ -1,6 +1,4 @@
-<div
-  style="display: flex; justify-content: center; align-items: center; gap: 30px; margin-bottom: 20px"
->
+<div align="center">
   <a href="https://vara.network/" target="blank"><img src="https://raw.githubusercontent.com/Vara-Lab/Assets/refs/heads/main/logos/vara-logo-white.png" width="120" alt="Nest Logo" /></a>
   <img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" />
 </div>
