@@ -1,21 +1,8 @@
-<!-- <div align="center">
+<div align="center">
   <a href="https://vara.network/" target="blank"><img src="https://raw.githubusercontent.com/Vara-Lab/Assets/refs/heads/main/logos/vara-logo-white.png" width="120" alt="Nest Logo" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" />
-</div> -->
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://vara.network/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Vara-Lab/Assets/refs/heads/main/logos/vara-logo-white.png" width="120" alt="Vara Logo">
-      </a>
-    </td>
-    <td style="width:30px;"></td>
-    <td>
-      <img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo">
-    </td>
-  </tr>
-</table>
+</div>
 
 <p align="center">A backend server for building dApps with gasless feature on <a href="http://nodejs.org" target="_blank">Vara Network</a></p>
 
@@ -71,7 +58,7 @@ Server contains three functions that you can call:
 - [SailsCalls](https://github.com/Vara-Lab/SailsCalls) to use all features in vara network in a quickly way.
 - `@gear-js/api` for interacting with Vara.
 
-## Getting started
+## 🚀 Getting started
 
 ### Install dependencies
 
