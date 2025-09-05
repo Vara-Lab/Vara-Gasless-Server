@@ -1,7 +1,21 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://vara.network/" target="blank"><img src="https://raw.githubusercontent.com/Vara-Lab/Assets/refs/heads/main/logos/vara-logo-white.png" width="120" alt="Nest Logo" /></a>
   <img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" />
-</div>
+</div> -->
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://vara.network/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Vara-Lab/Assets/refs/heads/main/logos/vara-logo-white.png" width="120" alt="Vara Logo">
+      </a>
+    </td>
+    <td style="width:30px;"></td>
+    <td>
+      <img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo">
+    </td>
+  </tr>
+</table>
 
 <p align="center">A backend server for building dApps with gasless feature on <a href="http://nodejs.org" target="_blank">Vara Network</a></p>
 
